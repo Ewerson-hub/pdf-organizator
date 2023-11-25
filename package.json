@@ -1,0 +1,15 @@
+{
+  "name": "pdf-organizer",
+  "version": "1.0.0",
+  "description": "App for organize my PDFs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ewerson Lucas",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
